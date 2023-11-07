@@ -1,0 +1,3 @@
+opened treasure and a pokemon emerald gba file i downloaded in ghex
+found corrupted byte and changed it to original
+emulated it on mgba to get flag

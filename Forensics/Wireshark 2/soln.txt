@@ -1,0 +1,5 @@
+found a file 'cor' transferred in the packet with structure like png
+
+did not display as png
+edited headers in ghex to fix corruption
+opened image to find flag
