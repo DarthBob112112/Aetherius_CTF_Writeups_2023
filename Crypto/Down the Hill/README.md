@@ -8,4 +8,4 @@ Give the answer as: "aetherius{the-decrypted-message}"
 
 >[enc_flag.txt](./enc_flag.txt) &emsp; [chall.py](./chall.py)
 
-[Solution](./soln/README.md)
+[Solution](./soln/)

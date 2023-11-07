@@ -7,4 +7,4 @@ Your mission, should you choose to accept it, is to decrypt this covert communic
 
 >[secret.pcapng](./secret.pcapng)
 
-[Solution](./soln/README.md)
+[Solution](./soln/)

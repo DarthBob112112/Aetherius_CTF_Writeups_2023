@@ -8,4 +8,4 @@ Please submit flag according to the format: aetherius{...}
 
 >[treasure](./treasure)
 
-[Solution](./soln/README.md)
+[Solution](./soln/)

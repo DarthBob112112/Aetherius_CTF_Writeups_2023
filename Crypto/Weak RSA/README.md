@@ -6,4 +6,4 @@ I showed my encryption scheme to a Monsieur. He started babbling in French about
 
 >[cipher.txt](./cipher.txt) &emsp; [encrypt.py](./encrypt.py)
 
-[Solution](./soln/README.md)
+[Solution](./soln/)

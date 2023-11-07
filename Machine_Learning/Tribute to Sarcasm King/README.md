@@ -3,4 +3,4 @@ Can you show Mr Bing your ML and automation skills? Beware, Mr. Bing redirects y
 
 https://aetherius-ml.iitmandi.co.in/
 
-[Solution](./soln/README.md)
+[Solution](./soln/)

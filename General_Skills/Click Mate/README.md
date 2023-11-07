@@ -5,4 +5,4 @@ Sometimes clicks and tools just don't work
 
 `https://aetherius-cm.iitmandi.co.in/`
 
-[Solution](./soln/README.md)
+[Solution](./soln/)

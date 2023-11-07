@@ -5,4 +5,4 @@ My cat doesn't eat cat food. What does it eat ?
 
 >[cat1.png](./cat1.png)
 
-[Solution](./soln/README.md)
+[Solution](./soln/)

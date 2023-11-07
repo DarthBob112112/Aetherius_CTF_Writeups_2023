@@ -6,4 +6,4 @@ Buffer overflows are fun!! :)
 
 >[buff-overflow](./buff-overflow)
 
-[Solution](./soln/README.md)
+[Solution](./soln/)

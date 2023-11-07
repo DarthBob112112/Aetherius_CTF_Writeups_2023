@@ -5,4 +5,4 @@ I'm a secret wrapped in digital attire, A ciphered puzzle to fuel your desire. I
 
 >[secret.txt](./secret.txt)
 
-[Solution](./soln/README.txt)
+[Solution](./soln/)

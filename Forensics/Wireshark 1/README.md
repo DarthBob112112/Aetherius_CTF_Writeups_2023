@@ -5,4 +5,4 @@ Greetings, seekers of the cosmic code! Analyze a Wireshark packet capture that m
 
 > [secret_c.pcapng](./secret_c.pcapng)
 
-[Solution](./soln/README.md)
+[Solution](./soln/)

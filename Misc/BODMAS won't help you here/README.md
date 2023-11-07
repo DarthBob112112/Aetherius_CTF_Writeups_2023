@@ -7,4 +7,4 @@ You can use netcat to connect to the challenge.
 
 >   nc iitmandi.co.in 10002 
 
-[Solution](./soln/README.md)
+[Solution](./soln/)

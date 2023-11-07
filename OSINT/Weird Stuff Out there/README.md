@@ -8,4 +8,4 @@ I found this weird file you might want to look at. Have fun!
 
 >[Occams_razor](./Occams_razor)
 
-[Solution](./soln/README.md)
+[Solution](./soln/)
